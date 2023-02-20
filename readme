@@ -1,0 +1,5 @@
+projeyi yapım amacım istediğim dosyaları istediğim yere yedeklemesini yaptırmak 2 farklı şekilde çalışmakta 1.yol seçilen zamanda bir kendini tekrar etmekte.
+2.yol ise verilen saat ve dakikalara göre işlem yapmakta toplam 3 farklı saat dakika belirtebilirsiniz. Program hem verilen zaman aralıgındaki operasyonunu yaparken aynı zamanda
+verilen saatlere göre operasyonları yapabilir.
+Yedekleri rar haline getirerek yedekleyecektir hem boyutun şişmesini önlemek hemde dosya işlemleri daha hızlı gerçekleşmesi amacıyla böyle yaptım.
+Aynı zamanda Mail bilgileri girdiğiniz takdirde alınan yedeğin bilgileri ve boyutu dosya yolu belirtilen mail adresine gönderilecektir.
